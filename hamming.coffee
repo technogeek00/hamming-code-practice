@@ -11,14 +11,6 @@ convertToBitArray = (data, maxLength = 32) ->
 		mask *= 2
 	return result
 
-printArraySingle = (arr) ->
-	string = "[ " + arr[0];
-	for i in [1 ... arr.length]
-		string += "," + arr[i]
-	string += " ]"
-	console.log(string)
-	return string
-
 largestPowerForNum = (num) ->
 	power = 0
 	while num >= 1
