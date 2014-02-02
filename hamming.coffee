@@ -1,3 +1,7 @@
+# Fun with Hamming Codes
+# Practice for CSE 461 Midterm
+# By Zachary Cava
+
 convertToBitArray = (data, maxLength = 32) ->
 	result = []
 	mask = 0x01

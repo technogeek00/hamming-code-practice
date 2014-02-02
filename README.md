@@ -1,5 +1,7 @@
 Hamming Practice
 ================
+By Zachary Cava
+
 A fun little program to test how good you are at hamming codes. Constructed
 to help CSE 461 Networks study for our midterm
 
